@@ -1,7 +1,5 @@
 #include <iostream>
 <<<<<<< HEAD
-//expecting compile line: g++ -std=c++11 foo.cpp
-//nicho448@msu.edu
 =======
 //typical compile: g++ -std=c++11 foo.cpp
 //avpub448@zfh.rqh
