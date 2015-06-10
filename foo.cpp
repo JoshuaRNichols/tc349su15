@@ -1,6 +1,11 @@
 #include <iostream>
+<<<<<<< HEAD
 //expecting compile line: g++ -std=c++11 foo.cpp
 //nicho448@msu.edu
+=======
+//typical compile: g++ -std=c++11 foo.cpp
+//avpub448@zfh.rqh
+>>>>>>> a8852a252ea9cb959158aa09b899876056375895
 
 int main(int argc, char const *argv[])
 
