@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Calendar - Michigan State Swing Society</title>
+    <title>Contact - Michigan State Swing Society</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" href="mobile.css" media="(max-width: 500px)">
 </head> 
@@ -18,13 +18,11 @@
             </ul>
         </div>
 			<div id="content">
-				<h2>Calendar</h2>
-				<div id="calendar">
-					<iframe src="https://www.google.com/calendar/embed?src=michiganstateswingsociety%40gmail.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-				</div>
+				<h2>Contact</h2>
+				<p>Email: <a href="mailto:swingers@msu.edu">swingers.msu.edu</a></p>
 			</div>
 			<div id="footer">
-			<p class="copyright">&copy Michigan State Swing Society 2015</p>
+			<p class="copyright">&copy Michigan State Swing Society 2011</p>
 			</div>
 		</div>
 	</body>
