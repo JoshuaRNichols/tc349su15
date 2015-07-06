@@ -70,12 +70,10 @@ div {
     border-width:thin;
     border-color:white;
     border-style:solid;
-    border-width:thin;
 }
 
 #nav ul {
     padding: 20px;
-    background: rgba(0,0,0,0.7);
     float: left;
 }
 
@@ -104,7 +102,7 @@ div {
 
 .l_column {
     background-image: url("images/swing3.jpg");
-    min-height: 400px;
+    min-height: 300px;
     max-width: 640px;
     background-size: 100%; 
     background-repeat: no-repeat;
@@ -115,17 +113,20 @@ div {
 
 .r_column {
     background-image: url("images/swing4.jpg");
-    min-height: 400px;
+    min-height: 300px;
     max-width: 640px;
     background-size: 100%; 
     background-repeat: no-repeat;
     padding:0px;
     width: 33%; 
 	float: right;
-    width: 33%; 
     }
 
 .c_column {
+    min-height: 300px;
+    max-width: 640px;
+    background-size: 100%; 
+    background-repeat: no-repeat;
     padding:0px;
     width: 33%; 
     display: inline-block; 

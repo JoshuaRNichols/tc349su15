@@ -103,8 +103,9 @@ div {
 .c_column {
     float: none;
     padding:0px; 
-    display: inline-block; 
+    display: table; 
     min-height: 0px;
+    max-width: 300px; 
     }
     
 

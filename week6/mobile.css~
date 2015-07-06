@@ -67,6 +67,7 @@ div {
 #nav li {
     text-align: left;
     padding: 8px;
+    display:table;
     border-style:none;
    
 }
@@ -102,7 +103,7 @@ div {
 .c_column {
     float: none;
     padding:0px; 
-    display: inline-block; 
+    display: table; 
     min-height: 0px;
     }
     
