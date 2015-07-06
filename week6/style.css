@@ -4,8 +4,6 @@ html {
     background-color: #163301;
 }
 
-
-
 a:link {
     color: white;
 	font-weight:bold;
@@ -122,7 +120,7 @@ div {
 }
 
 .c_column {
-    min-height: 300px;
+    min-height: 199px;
     max-width: 640px;
     background-size: 100%; 
     background-repeat: no-repeat;
