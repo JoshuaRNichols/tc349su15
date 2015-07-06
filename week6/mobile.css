@@ -26,13 +26,13 @@ h1 {
     min-height: 323px;
     max-width: 900px;
     width: 100%;
-    color:#163301;
+    color:white;
 }
 
 .headerImg {
     background-image: url("images/swing5s.jpg");
     min-height: 323px;  
-    background-color:green;
+    background-color:#49743f;
     width: 300px;
     }
     
@@ -52,7 +52,7 @@ div {
     
     
 #nav {
-    background-color:green;
+    background-color:#49743f;
     width:auto;
     text-align:left;
 
@@ -77,21 +77,13 @@ div {
 	padding-right:7px;
 }
 
-
-#columnImage {
-    height: auto; 
-    width: auto; 
-    max-width: 300px; 
-    max-height: 300px;
-    border-radius: 3px;
-}
-
 .l_column {
     float: none;
     padding:0px;
     display: inline-block; 
     min-height: 0px;
     }
+
 
 .r_column {
     float: none;

@@ -26,7 +26,7 @@ h1 {
     min-height: 323px;
     max-width: 900px;
     width: 100%;
-    color:#163301;
+    color:white;
 }
 
 .headerImg {
@@ -60,7 +60,7 @@ div {
     
 #nav {
     list-style:none;
-    background-color:green;
+    background-color:#49743f;
     width:auto;
     text-align:center;
     padding-top:20px;
@@ -92,28 +92,24 @@ div {
 }
 
     
-#columnImage {
-    height: auto; 
-    width: auto; 
-    max-width: 300px; 
-    max-height: 300px;
-    border-radius: 3px;
-}
 
 .l_column {
     background-image: url("images/swing3.jpg");
-    min-height: 300px;
+    min-height: 199px;
     max-width: 640px;
     background-size: 100%; 
     background-repeat: no-repeat;
     padding:0px;
     width: 33%; 
 	float: left;
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
     }
 
 .r_column {
     background-image: url("images/swing4.jpg");
-    min-height: 300px;
+    min-height: 199px;
     max-width: 640px;
     background-size: 100%; 
     background-repeat: no-repeat;
@@ -130,8 +126,6 @@ div {
     padding:0px;
     width: 33%; 
     display: inline-block; 
-    text-align: block;
-    max-width: 300px; 
     }
     
 
