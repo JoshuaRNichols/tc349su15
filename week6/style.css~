@@ -4,8 +4,7 @@ html {
     background-color: #163301;
 }
 
-body {
-}
+
 
 a:link {
     color: white;
@@ -31,7 +30,7 @@ h1 {
 }
 
 .headerImg {
-    background-image: url("/images/swing5.jpg");
+    background-image: url("images/swing5.jpg");
     min-height: 323px;
     max-width: 900px;
     background-repeat: no-repeat;
@@ -39,7 +38,7 @@ h1 {
 	margin-left: auto; 
     margin-right: auto;
 	border-radius: 3px;
-    width: auto;
+    width: 900px;
     }
     
 div {
@@ -58,10 +57,11 @@ div {
 }
 
     
+    
 #nav {
     list-style:none;
     background-color:green;
-    width:100%;
+    width:auto;
     text-align:center;
     padding-top:20px;
     padding-bottom:20px;
@@ -70,6 +70,7 @@ div {
     border-width:thin;
     border-color:white;
     border-style:solid;
+    border-width:thin;
 }
 
 #nav ul {
@@ -86,10 +87,14 @@ div {
     border-style:solid;
     border-width:thin;
 }
-
+ul li div 
+{
+	border:outset;
+	padding:3px;
+}
 #nav a {
-    padding-left:7px;
-    padding-right:7px;
+	padding-left:7px;
+	padding-right:7px;
 }
 
     
@@ -102,7 +107,7 @@ div {
 }
 
 .l_column {
-    background-image: url("/images/swing3.jpg");
+    background-image: url("images/swing3.jpg");
     min-height: 400px;
     max-width: 640px;
     background-size: 100%; 
@@ -113,7 +118,7 @@ div {
     }
 
 .r_column {
-    background-image: url("/images/swing4.jpg");
+    background-image: url("images/swing4.jpg");
     min-height: 400px;
     max-width: 640px;
     background-size: 100%; 

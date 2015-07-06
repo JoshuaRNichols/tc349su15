@@ -3,24 +3,40 @@
 <html>
 	<head>
         <title>Michigan State Swing Society</title>
-        <!--<link href="css/structure.css" type="text/css" rel="stylesheet" />-->
-        <link href="css/style.css" type="text/css" rel="stylesheet" />
-        <script src="js/jquery-1.11.3.min.js"></script>
+        <link rel="stylesheet" href="style.css" type="text/css"  />
+        <link rel="stylesheet" media="(max-width: 500px)" href="mobile.css" />
+        
 	</head>
 
 
-    <!--<link href="css/normalize.css"  type="text/css" rel="stylesheet" />-->
-    <ul id="nav">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="events.html">Who are we?</a></li>
-        <li><a href="calendar.html">What are we doing?</a></li>
-        <li><a href="faqs.html">What is swing?</a></li>
-    </ul>
-
-</head>
 <body>
 
-
+<div id="page">
+        <div class="headerImg">
+        <h1>State Swing Society</h1>
+            <ul id="nav">
+            
+                <li><a href="index.html">Home</a></li>
+                <li><a href="calendar.html">Calendar</a></li>
+                <li><a href="about.html">Who are we?</a></li>
+                <li><a href="swing.html">What is swing?</a></li>
+            </ul>
+        </div>
+    <div class="l_column">
+        
+    </div>
+    <div class="c_column">
+        <div id="upcomingEvents">
+            <h2>Upcoming Events</h2>
+            TBA
+        </div>
+    </div>    
+    <div class="r_column">
+        
+    </div>
+    
+    
 <div class="b">This is where the text will go.</div>
-<script src="js/j.js"></script>
+
+</div>
 </body>

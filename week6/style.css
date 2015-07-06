@@ -23,7 +23,6 @@ a:visited {
 h1 {
     font-family: Helvetica, sans-serif;
     font-size: 30px;
-   
     min-height: 323px;
     max-width: 900px;
     width: 100%;
@@ -132,41 +131,4 @@ div {
     display: inline-block; 
     }
     
-@media (max-width: 500px) {
-  h1 {
-    font-size: 50px;
-    margin-top: 20px;
-    line-height: 40px;
-  }
-  h2 {
-    font-size: 20px;
-    margin: 20px 0 30px 0;
-  }
-  div {
-    margin: 20px 12px 0 12px;
-  }
-  p {
-    font-size: 20px;
-    line-height: 24px;
-  }
-    .l_column {
-        float: none;
-        padding:0px;
-        display: inline-block; 
-        min-height: 0px;
-        }
 
-    .r_column {
-        float: none;
-        padding:0px;
-        display: inline-block; 
-        min-height: 0px;
-        }
-
-    .c_column {
-        float: none;
-        padding:0px; 
-        display: inline-block; 
-        min-height: 0px;
-        }
-}
