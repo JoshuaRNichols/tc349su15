@@ -3,8 +3,8 @@
 <html>
 	<head>
         <title>Michigan State Swing Society</title>
-        <!--<link href="css/structure.css" type="text/css" rel="stylesheet" />-->
-        <link href="css/style.css" type="text/css" rel="stylesheet" />
+        <link href="css/structure.css" type="text/css" rel="stylesheet" />
+        <!--<link href="css/style.css" type="text/css" rel="stylesheet" />-->
         <script src="js/jquery-1.11.3.min.js"></script>
 	</head>
 
