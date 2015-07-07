@@ -85,6 +85,10 @@ div {
 	padding-right:7px;
 }
 
+.upcomingEvents {
+    font-weight:bold;
+    text-align: center;
+}
 
 .l_column {
     background-image: url("images/swing3.jpg");

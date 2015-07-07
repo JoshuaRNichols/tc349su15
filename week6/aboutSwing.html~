@@ -36,9 +36,15 @@
     <li><a href="http://www.youtube.com/watch?v=V3ZxiPKmacg" target="_blank">West Coast Swing</a> is related to lindy hop, but is different from the other forms of swing dance because its dancers prefer modern songs as opposed to swung songs. It also emphasizes a smoother style than its bouncy counterparts. The dance is typically 6 counts and is best with a slower tempo.</li>
     </ul>
     </div>
-			<div id="footer">
-			<p class="copyright">&copy Michigan State Swing Society 2011</p>
-			</div>
-		</div>
-	</body>
 
+<div id="footer">
+<a href="https://jigsaw.w3.org/css-validator/check/referer">
+<img style="border:0;width:88px;height:31px"
+src="https://jigsaw.w3.org/css-validator/images/vcss"
+alt="Valid CSS!" />
+</a>
+<a href="http://validator.w3.org/check?uri=https%3A%2F%2Fwww.msu.edu%2F~swingers%2Findex.html">HTML5 validated.</a>
+<p class="copyright">&copy; Michigan State Swing Society 2015</p>
+</div>
+</div>
+</body>

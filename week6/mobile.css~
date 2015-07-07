@@ -9,6 +9,7 @@ html {
 a:link {
     color: white;
 	font-weight:bold;
+    font-style:underline;
 }
 
 a:hover {
